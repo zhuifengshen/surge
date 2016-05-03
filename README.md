@@ -1,2 +1,2 @@
 # surge
-Surge申请的配置文件
+Surge神器的配置文件
